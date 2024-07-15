@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg11695"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="KeyCard_Green.svg"
+   inkscape:export-filename="C:\Users\Tobi_\Desktop\KeyCard_Green.png"
+   inkscape:export-xdpi="131"
+   inkscape:export-ydpi="131">
+  <defs
+     id="defs11689">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect12817"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="168.64065"
+     inkscape:cy="998.16113"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-32000"
+     inkscape:window-y="-32000"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid12240" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata11692">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#008000;fill-opacity:0.99658706;stroke-width:0.26458332"
+       id="rect10956"
+       width="44.979168"
+       height="79.375"
+       x="2.6458337"
+       y="0.66666698" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 10.583333,8.6041665 h 39.6875 V 82.6875 h -39.6875 z"
+       id="path12815"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect12817"
+       inkscape:original-d="m 10.583333,8.6041665 c 0,0 39.6875,0 39.6875,0 0,0 0,74.0833335 0,74.0833335 0,0 -39.6875,0 -39.6875,0 0,0 0,-74.0833335 0,-74.0833335 z"
+       transform="translate(-5.2916663,-5.2916665)" />
+    <path
+       style="opacity:1;fill:#008000;fill-opacity:0.99658706;stroke-width:1.01015258"
+       d="M 20.522218,152.67286 V 13.271814 H 94.76843 169.01464 V 152.67286 292.07392 H 94.76843 20.522218 Z"
+       id="path12833"
+       inkscape:connector-curvature="0"
+       transform="scale(0.26458333)" />
+    <path
+       style="opacity:1;fill:#00ff00;fill-opacity:0.99658706;stroke-width:1.01015258"
+       d="M 10.420693,152.67286 V 3.1702883 H 94.76843 179.11617 V 152.67286 302.17544 H 94.76843 10.420693 Z M 170.78594,152.42033 170.52987,11.756585 95.020968,11.497616 19.512065,11.238647 V 152.16135 293.08407 h 75.764973 75.764972 z"
+       id="path12835"
+       inkscape:connector-curvature="0"
+       transform="scale(0.26458333)" />
+    <path
+       style="opacity:1;fill:#00ff00;fill-opacity:0.99658706;stroke-width:0.71428573"
+       d="M 20.497793,152.64427 V 13.35856 H 94.783508 169.06922 V 152.64427 291.92999 H 94.783508 20.497793 Z"
+       id="path12837"
+       inkscape:connector-curvature="0"
+       transform="scale(0.26458333)" />
+    <path
+       style="opacity:1;fill:#008000;fill-opacity:0.99658706;stroke-width:0.71428573"
+       d="M 10.497793,152.64427 V 3.3585598 H 94.783508 179.06922 V 152.64427 301.92999 H 94.783508 10.497793 Z m 160.714287,55.47517 c 0,-46.88152 -0.21361,-110.363659 -0.47468,-141.071429 L 170.26272,11.215703 H 94.665972 19.069222 V 152.28713 293.35856 h 76.071428 76.07143 z"
+       id="path12839"
+       inkscape:connector-curvature="0"
+       transform="scale(0.26458333)" />
+  </g>
+</svg>
