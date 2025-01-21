@@ -576,7 +576,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 298106958}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 4.19, y: 11.59, z: 0.60755473}
+  m_LocalPosition: {x: 4.19, y: 0.32, z: 0.60755473}
   m_LocalScale: {x: 3, y: 3, z: 1.04321}
   m_Children: []
   m_Father: {fileID: 1161768965}
@@ -1782,12 +1782,12 @@ Prefab:
     - target: {fileID: 224258629131574248, guid: bec5919810392cb4e91f07bec04b6298,
         type: 2}
       propertyPath: m_LocalPosition.x
-      value: 443.41797
+      value: 160.73901
       objectReference: {fileID: 0}
     - target: {fileID: 224258629131574248, guid: bec5919810392cb4e91f07bec04b6298,
         type: 2}
       propertyPath: m_LocalPosition.y
-      value: 249.47595
+      value: 39.3143
       objectReference: {fileID: 0}
     - target: {fileID: 224018869362843720, guid: bec5919810392cb4e91f07bec04b6298,
         type: 2}
@@ -1817,12 +1817,12 @@ Prefab:
     - target: {fileID: 224274183237604388, guid: bec5919810392cb4e91f07bec04b6298,
         type: 2}
       propertyPath: m_LocalPosition.x
-      value: 443.41797
+      value: 160.73901
       objectReference: {fileID: 0}
     - target: {fileID: 224274183237604388, guid: bec5919810392cb4e91f07bec04b6298,
         type: 2}
       propertyPath: m_LocalPosition.y
-      value: 249.47595
+      value: 39.3143
       objectReference: {fileID: 0}
     - target: {fileID: 223501194724945058, guid: bec5919810392cb4e91f07bec04b6298,
         type: 2}
@@ -2146,7 +2146,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4135460690377554, guid: 480292ca68922c64ab7dc2b06e7e1c60, type: 2}
       propertyPath: m_LocalPosition.y
-      value: -3.27
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4135460690377554, guid: 480292ca68922c64ab7dc2b06e7e1c60, type: 2}
       propertyPath: m_LocalPosition.z
@@ -2336,7 +2336,7 @@ GameObject:
   - component: {fileID: 1358585270}
   - component: {fileID: 1714766981}
   m_Layer: 0
-  m_Name: NormalDoor
+  m_Name: NormalDoor (Hangar)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -141909,11 +141909,11 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4135460690377554, guid: 480292ca68922c64ab7dc2b06e7e1c60, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 58.968
+      value: 58.98
       objectReference: {fileID: 0}
     - target: {fileID: 4135460690377554, guid: 480292ca68922c64ab7dc2b06e7e1c60, type: 2}
       propertyPath: m_LocalPosition.y
-      value: -2.6779697
+      value: -2.68
       objectReference: {fileID: 0}
     - target: {fileID: 4135460690377554, guid: 480292ca68922c64ab7dc2b06e7e1c60, type: 2}
       propertyPath: m_LocalPosition.z
@@ -143164,11 +143164,11 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4135460690377554, guid: 480292ca68922c64ab7dc2b06e7e1c60, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 58.967995
+      value: 68.62
       objectReference: {fileID: 0}
     - target: {fileID: 4135460690377554, guid: 480292ca68922c64ab7dc2b06e7e1c60, type: 2}
       propertyPath: m_LocalPosition.y
-      value: -2.6779697
+      value: 8.23
       objectReference: {fileID: 0}
     - target: {fileID: 4135460690377554, guid: 480292ca68922c64ab7dc2b06e7e1c60, type: 2}
       propertyPath: m_LocalPosition.z
